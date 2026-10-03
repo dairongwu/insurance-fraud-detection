@@ -63,3 +63,7 @@ Model Training
 Model Evaluation  
 ↓  
 Fraud Risk Prediction
+
+## report
+
+[View Project Presentation (PDF)](insurance_fraud_detection_report.pdf)
