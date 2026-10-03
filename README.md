@@ -64,6 +64,6 @@ Model Evaluation
 ↓  
 Fraud Risk Prediction
 
-## report
+## Project Link
 
 [View Project Presentation (Google Drive)](https://drive.google.com/drive/folders/1e2gyoXksmHRmHXMLxsI5RoBslCYfXxAh?dmr=1&ec=wgc-drive-hero-goto)
