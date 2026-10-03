@@ -66,4 +66,4 @@ Fraud Risk Prediction
 
 ## report
 
-[View Project Presentation (Google Drive)](https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-hero-goto)
+[View Project Presentation (Google Drive)](https://drive.google.com/drive/folders/1e2gyoXksmHRmHXMLxsI5RoBslCYfXxAh?dmr=1&ec=wgc-drive-hero-goto)
