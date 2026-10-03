@@ -66,4 +66,4 @@ Fraud Risk Prediction
 
 ## report
 
-[View Project Presentation (PDF)](insurance_fraud_detection_report.pdf)
+[View Project Presentation (Google Drive)](https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-hero-goto)
